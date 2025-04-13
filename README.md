@@ -1,7 +1,8 @@
 
 # 🖥️ YajasviPortfolio
 
-[Website Preview](https://yajasvi-portfolio.vercel.app/)
+![Website Preview](./Portfolio.gif)
+[Live Website](https://yajasvi-portfolio.vercel.app/)
 
 Welcome to my personal portfolio! Here, you can explore details about me, my skills, and the projects I've worked on. If you'd like to personalize this portfolio, you can easily modify the `src/pages/index.tsx` and `src/styles/globals.css` files to reflect your own unique style. Feel free to make improvements and share them with a pull request. If you encounter any issues, you can report them here.
 
