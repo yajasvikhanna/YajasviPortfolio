@@ -1,6 +1,3 @@
-Sure! Below is an updated version of your README with a dedicated section explaining how to **set up the project** from scratch:
-
----
 
 # 🖥️ YajasviPortfolio
 
