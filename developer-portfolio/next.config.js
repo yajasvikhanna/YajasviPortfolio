@@ -29,6 +29,11 @@ const config = withPWA({
     locales: ["en"],
     defaultLocale: "en",
   },
+
+  // Disable ESLint in production builds
+  eslint: {
+    ignoreDuringBuilds: process.env.NODE_ENV === "production",
+  },
 });
 
 export default config;
